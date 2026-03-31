@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.log
+__MACOSX/
+creditcard.csv
+archive.zip
